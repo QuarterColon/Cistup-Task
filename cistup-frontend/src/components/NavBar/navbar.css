@@ -1,0 +1,29 @@
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    min-height: 150px;
+    background-color: #5D8CAE;
+}
+.navbar-logo img {
+     /* Adjust according to your logo size */
+    width: 10vw;
+    padding: 20px;
+  }
+  
+  .navbar-title {
+    font-size: 2vw;
+    padding: 50px 200px;
+    font-weight: bold;
+
+  }
+  
+  .navbar-links a {
+    color: #fff;
+    text-decoration: none;
+    margin-left: 1rem;
+  }
+  
+  .navbar-links a:hover {
+    text-decoration: underline;
+  }

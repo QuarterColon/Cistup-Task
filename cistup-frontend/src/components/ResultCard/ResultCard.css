@@ -1,0 +1,9 @@
+objects-detected{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px 0;
+    font-size: 1.2vw;
+  }
